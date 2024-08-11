@@ -1,8 +1,7 @@
 
 This project was created in response to a request from Janet, the Retention Manager at PhoneNow, who outlined the need for detailed customer data analysis.
 
-
-📌 Problems Encountered:
+Problems Encountered:
 
 1- High Customer Churn: A significant number of customers leaving within the last month.
 
@@ -15,7 +14,7 @@ This project was created in response to a request from Janet, the Retention Mana
 5- Demographic Data Utilization: Integrating demographic information such as gender, age range, and dependents.
 
 
-🔍 Dashboard Insights:
+Dashboard Insights:
 
 
 - Total Charges: $16M with monthly charges averaging $456K.
@@ -31,7 +30,7 @@ This project was created in response to a request from Janet, the Retention Mana
 - Demographics: Visualization of customer distribution by age, gender, and service preferences.
 
 
-🎯 Solutions Implemented:
+Solutions Implemented:
 
 
 1- Churn Analysis: Identified patterns and factors contributing to customer churn.
@@ -45,7 +44,7 @@ This project was created in response to a request from Janet, the Retention Mana
 5- Targeted Demographics: Leveraged demographic data for personalized marketing and customer support.
 
 
-📈 Project Outcomes:
+Project Outcomes:
 
 
 - Enhanced understanding of customer behavior and preferences.
