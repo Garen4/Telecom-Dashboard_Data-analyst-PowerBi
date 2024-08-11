@@ -1,6 +1,7 @@
 
 This project was created in response to a request from Janet, the Retention Manager at PhoneNow, who outlined the need for detailed customer data analysis.
 
+
 📌 Problems Encountered:
 
 1- High Customer Churn: A significant number of customers leaving within the last month.
@@ -13,7 +14,9 @@ This project was created in response to a request from Janet, the Retention Mana
 
 5- Demographic Data Utilization: Integrating demographic information such as gender, age range, and dependents.
 
+
 🔍 Dashboard Insights:
+
 
 - Total Charges: $16M with monthly charges averaging $456K.
 
@@ -27,7 +30,9 @@ This project was created in response to a request from Janet, the Retention Mana
 
 - Demographics: Visualization of customer distribution by age, gender, and service preferences.
 
+
 🎯 Solutions Implemented:
+
 
 1- Churn Analysis: Identified patterns and factors contributing to customer churn.
 
@@ -39,7 +44,9 @@ This project was created in response to a request from Janet, the Retention Mana
 
 5- Targeted Demographics: Leveraged demographic data for personalized marketing and customer support.
 
+
 📈 Project Outcomes:
+
 
 - Enhanced understanding of customer behavior and preferences.
 
@@ -48,6 +55,7 @@ This project was created in response to a request from Janet, the Retention Mana
 - Optimized billing and payment processes.
 
 - Improved customer support efficiency through better ticket management.
+
 
 ![1](https://github.com/Garen4/Telecom-Dashboard_Data-analyst-PowerBi/assets/102977120/1c241392-e3a5-407a-a8d4-f82e09c4e774)
 ![2](https://github.com/Garen4/Telecom-Dashboard_Data-analyst-PowerBi/assets/102977120/d72d3b26-61d2-4e01-9c04-78033db22b2c)
